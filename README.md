@@ -6,7 +6,7 @@
 
 - 📄 Minhas experiências: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
 
-- 📫 How to reach me: **luisa.purificacao16@gmail.com**
+- 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
