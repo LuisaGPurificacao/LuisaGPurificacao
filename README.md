@@ -1,10 +1,14 @@
 # Olá 😄
 <h3 align="center">Meu nome é Luisa, tenho 18 anos. 
-  Amo a tecnologia e programação, principalmente a área de front-end.</h3>
+  Amo a tecnologia e programação.</h3>
 
 - 🌱 Estou aprendendo: **Software Design & Total Experience (gestão de projetos), Computational Thinking using Python, Web Development (HTML, CSS e JavaScript), Domain Driven Design (Java), Building Relational DataBase (Banco de Dados) e AI & ChatBot**
 
 - 📄 Minhas experiências: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
+
+- 🤩 Trabalho: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
+
+- 👩🏻‍💻 Trabalho com: **Java JPA, Spring Framework, Angular e Agile**
 
 - 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
