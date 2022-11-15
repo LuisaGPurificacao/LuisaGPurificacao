@@ -1,5 +1,5 @@
 # Olá 😄
-<h3 align="center">Meu nome é Luisa, tenho 17 anos. 
+<h3 align="center">Meu nome é Luisa, tenho 18 anos. 
   Amo a tecnologia e programação, principalmente a área de front-end.</h3>
 
 - 🌱 Estou aprendendo: **Software Design & Total Experience (gestão de projetos), Computational Thinking using Python, Web Development (HTML, CSS e JavaScript), Domain Driven Design (Java), Building Relational DataBase (Banco de Dados) e AI & ChatBot**
