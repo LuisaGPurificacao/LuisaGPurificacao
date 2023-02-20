@@ -7,7 +7,7 @@
 
 - 🤩 Trabalho: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
 
-- 👩🏻‍💻 Trabalho com: **Java JPA, Spring Framework e Agile**
+- 👩🏻‍💻 Trabalho com: **Java, Spring Framework e Agile**
 
 - 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
