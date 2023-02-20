@@ -1,13 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luisa Purificação and I've been working with tech for 6 months!
 
-- 🌱 Estou aprendendo: **Software Design & Total Experience (gestão de projetos), Computational Thinking using Python, Web Development (HTML, CSS e JavaScript), Domain Driven Design (Java), Building Relational DataBase (Banco de Dados) e AI & ChatBot**
+- 🌱 I am studying: **Java, Java EE, Spring Framework, REST, JPA, Microservices, Quarkus, Design Patterns, etc.**
 
-- 📄 Minhas experiências: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
+- 📄 Experiences: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
 
-- 🤩 Trabalho: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
+- 🤩 Work: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
 
-- 👩🏻‍💻 Trabalho com: **Java, Spring Framework e Agile**
+- 👩🏻‍💻 I work with: **Java, Spring Framework e Agile**
 
 - 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
