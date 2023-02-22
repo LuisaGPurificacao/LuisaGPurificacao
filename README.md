@@ -22,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisagpurificacao&layout=compact&theme=cobalt)](https://github.com/luisagpurificacao/github-readme-stats)
 
-[![Luisa's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LuisaGPurificacao-dev&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Luisa's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LuisaGPurificacao&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
