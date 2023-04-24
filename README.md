@@ -7,7 +7,7 @@
 
 - 🤩 Work: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
 
-- 👩🏻‍💻 I work with: **Java, Spring Framework e Agile**
+- 👩🏻‍💻 I work with: **Java, Quarkus e Agile**
 
 - 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
