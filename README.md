@@ -5,7 +5,7 @@
 
 - 📄 Experiences: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
 
-- 🤩 Work: **Agosto 2022 - Estágio em desenvolvimento de sistemas - IBM // Early Consulting Associate**
+- 🤩 Work: **Agosto 2022-Atualmente - Java Developer - IBM // Early Consulting Associate**
 
 - 👩🏻‍💻 I work with: **Java, Quarkus e Agile**
 
