@@ -1,13 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luisa Purificação and I've been working with tech for 8 months!
 
-- 🌱 I am studying: **Java, Java EE, Spring Framework, REST, JPA, Microservices, Quarkus, Design Patterns, etc.**
+- 🌱 I am studying: **Java, Java EE, Spring Framework, REST, JPA, Microservices, Quarkus, Design Patterns, Kafka, etc.**
 
 - 📄 Experiences: **Técnico em informática -Colégio Dom Bosco, Análise e Desenvolvimento de Sistemas -FIAP**
 
 - 🤩 Work: **Agosto 2022-Atualmente - Java Developer - IBM // Early Consulting Associate**
 
-- 👩🏻‍💻 I work with: **Java, Quarkus e Agile**
+- 👩🏻‍💻 I work with: **Java, Quarkus, Kafka e Agile**
 
 - 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
 
