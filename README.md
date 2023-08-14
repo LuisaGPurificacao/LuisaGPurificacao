@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Luisa Purificação and I've been working with tech for 8 months!
+## My name is Luisa Purificação and I've been working with tech for +1 year!
 
 - 🌱 I am studying: **Java, Java EE, Spring Framework, REST, JPA, Microservices, Quarkus, Design Patterns, Kafka, etc.**
 
