@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 I work with: **Java, Quarkus, Kafka e Agile**
 
-- 📫 How to reach me: **luisa.purificacao16@gmail.com** ou (11) **95031-1021**
+- 📫 How to reach me: **luisa.purificacao16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
